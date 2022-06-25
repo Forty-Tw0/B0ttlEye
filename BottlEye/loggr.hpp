@@ -2,7 +2,7 @@
 #include <windows.h>
 #include <iostream>
 #include <chrono>
-#include <fmt\core.h>
+#include <fmt/core.h>
 
 class loggr
 {
